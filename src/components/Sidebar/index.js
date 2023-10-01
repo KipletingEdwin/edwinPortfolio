@@ -24,6 +24,13 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
             </NavLink>
         </nav>
+        <ul>
+            <li>
+                <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/kipleting-edwin-25a513120/'>
+
+                </a>
+            </li>
+        </ul>
     </div>
 )
 
