@@ -91,6 +91,14 @@ const Contact = () => {
             </form>
           </div>
         </div>
+        <div className='info-map'>
+          Kipleting Edwin,
+          <br/>
+          Kenya,
+          1318-30100 Simat <br/>
+          Eldoret<br/>
+          <span> kipletingedwin4@gmail.com </span>
+        </div>
       </div>
       <Loader type="pacman" />
     </>
