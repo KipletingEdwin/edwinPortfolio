@@ -99,6 +99,9 @@ const Contact = () => {
           Eldoret<br/>
           <span> kipletingedwin4@gmail.com </span>
         </div>
+        <div className='map-wrap'>
+
+        </div>
       </div>
       <Loader type="pacman" />
     </>
